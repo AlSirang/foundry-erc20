@@ -68,3 +68,9 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+# Acknowledgments
+
+This project is part of **Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course | Foundry Edition 2023 |**.
+
+Thank you Patrick Collins for your awesome course.
